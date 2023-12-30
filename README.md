@@ -8,9 +8,6 @@ Application written in JavaScript with frontend and backed web server.
 2. [Getting Started](#getting-started)
    - [Installation](#installation)
    - [Usage](#usage)
-3. [Contributing](#contributing)
-4. [License](#license)
-5. [Acknowledgements](#acknowledgements)
 
 ## Introduction
 
